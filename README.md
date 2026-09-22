@@ -1,4 +1,5 @@
 # 🚀 多模态端侧 AI Agent 工业巡检系统
+![系统运行效果图](demo.png)
 
 基于 **YOLOv8/ONNX** 视觉推理 + **SciPy/FFT** 频域信号降噪 + **DeepSeek API** 决策中枢的模块化端侧巡检 Agent。
 
