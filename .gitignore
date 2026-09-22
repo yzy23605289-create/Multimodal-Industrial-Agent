@@ -1,0 +1,16 @@
+#隐私文件
+.env
+
+#Python运行产生的缓存与日志
+__pycache__/
+*.ptc
+*.pyo
+
+#虚拟环境
+venv/
+.venv/
+env/
+
+#IDE配置文件
+.vscode/
+.idea/
